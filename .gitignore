@@ -1,0 +1,10 @@
+env3.7/
+env/
+core/local_settings.py
+__pycache__/
+.idea/
+.*\.pyc
+*\.pyc
+*/.pytest_cache/*
+db.sqlite3
+
