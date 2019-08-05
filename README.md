@@ -5,9 +5,7 @@ Description
 
 System Requirements
 ====================
-    > Python3.7
-    > geckodriver
-    > firefox browser
+
 
 
 Installation and Configuration
