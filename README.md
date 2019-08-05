@@ -1,6 +1,8 @@
-Starter
+Code Highlighter
 ==========
-Description
+This is a sample REST system design practice project. The tutorial link is attached bellow.
+
+tutorial source: https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/
 
 
 System Requirements
